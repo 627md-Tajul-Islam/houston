@@ -22,14 +22,6 @@
     --cullen-background-image : url()
 
 }
-/* ============== #colton #comment form start  ============== */
-.colton .comment-form {
-    clear: both;
-}
-.colton .comment-form textarea {
-    height:160px;
-}
-/* ============== #colton #comment form end  ============== */
 
 
 html, body {

@@ -47,3 +47,34 @@
         color: wheat
     }
 /* #ben(f4d36302323992b2) #css ends  */
+
+/* #pencil(p48b0eae471185cc5) #css starts  */
+.productsp48b0eae471185cc5 .imgStyle{
+    border: 1px solid rgb(224, 200, 200); 
+    padding: 20px;
+    height: 600px;
+    width:1000px;
+    border-radius: 25px
+}
+.productsp48b0eae471185cc5 .card-product .img-wrap {
+        border-radius: 3px 3px 0 0;
+        overflow: hidden;
+        position: relative;
+        text-align: center
+}
+
+.productsp48b0eae471185cc5 .card-product .img-wrap img {
+        height: 100px;
+        width: 100px
+}
+
+.productsp48b0eae471185cc5 .title {
+        color: #33CCCC
+}
+
+.productsp48b0eae471185cc5 .card-product .info-wrap {
+        overflow: hidden;
+        padding: 15px
+}
+
+/* #pencil(p48b0eae471185cc5) #css ends  */

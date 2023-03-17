@@ -289,3 +289,99 @@
     font-weight: bold
 }
 /* #agadu(bf5e9e9e7ee746db) #css ends  */
+
+/* #quick(q50b1c56df5d4596e) #css starts  */
+.queteq50b1c56df5d4596e .subscription.bg-white {
+    background: none
+}
+
+.queteq50b1c56df5d4596e .bg-white {
+    background-color: #fff
+}
+
+.queteq50b1c56df5d4596e .subscription.bg-white .subscription-wrapper {
+    background: #fff
+}
+
+.queteq50b1c56df5d4596e .subscription-wrapper {
+    border-radius: 0% 5% 10% 3%/10% 20% 0% 17%;
+    -webkit-transform: perspective(1800px) rotateY(20deg) skewY(1deg) translateX(50px);
+    transform: perspective(1800px) rotateY(20deg) skewY(1deg) translateX(50px);
+    padding: 70px 50px;
+    z-index: 1;
+    width: 100%;
+    background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
+    position: absolute;
+    top:100px
+}
+
+.queteq50b1c56df5d4596e .subscription-wrapper {
+    box-shadow: 0px 15px 39px 0px rgba(8, 18, 109, 0.1)
+}
+
+.queteq50b1c56df5d4596e .subscription-content {
+    -webkit-transform: skewY(-1deg);
+    transform: skewY(-1deg)
+}
+
+.queteq50b1c56df5d4596e h3, 
+.queteq50b1c56df5d4596e .h3 {
+    font-size: 30px
+}
+
+.queteq50b1c56df5d4596e .flex-fill {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto
+}
+
+.queteq50b1c56df5d4596e .subscription.bg-white .form-control {
+    border: 1px solid #ebebeb
+}
+
+.queteq50b1c56df5d4596e .subscription-wrapper .form-control {
+    height: 60px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 45px
+}
+
+.queteq50b1c56df5d4596e .subscription-wrapper .form-control:focus {
+    background: rgba(255, 255, 255, 0.1);
+    outline: 0;
+    box-shadow: none
+}
+
+.queteq50b1c56df5d4596e .btn:not(:disabled):not(.disabled) {
+    cursor: pointer
+}
+
+.queteq50b1c56df5d4596e .btn-primary {
+    border: 0;
+    color: #fff
+}
+
+.queteq50b1c56df5d4596e .btn {
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 18px 45px;
+    border-radius: 45px;
+    font-weight: 500;
+    border: 1px solid;
+    position: relative;
+    z-index: 1;
+    transition: .3s ease-in;
+    overflow: hidden
+}
+
+.queteq50b1c56df5d4596e .btn-primary:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 102%;
+    height: 100%;
+    background: linear-gradient(45deg, #00a8f4 0%, #02d1a1 100%);
+    z-index: -1;
+    transition: ease 0.3s
+}
+/* #quick(q50b1c56df5d4596e) #css ends  */
+

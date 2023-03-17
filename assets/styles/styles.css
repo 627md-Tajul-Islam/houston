@@ -236,3 +236,33 @@
     }
 
     /* #pony(fd232222df02a491) #css ends  */
+
+/* #abbu(p3dce575962b3c369) #css starts  */
+.aboutp3dce575962b3c369 .jumbotron{
+    border-radius: 13px
+}
+.aboutp3dce575962b3c369 .DescriptionHeading {
+        font-size: 40px;
+        color: #0A033C
+    }
+
+    .aboutp3dce575962b3c369 .DescriptionPara {
+        color: #0A033C;
+        font-size: 18px
+    }
+    
+    .aboutp3dce575962b3c369 .descriptionImage img{
+        height: 400px;
+        width: 500px
+    }
+    .aboutp3dce575962b3c369 .badge{
+        color: #A560F4;
+        background-color: #F5F0F7
+    }
+    .aboutp3dce575962b3c369 .searchBtn{
+        background-color:#FF705E ;
+        border-radius: 10px;
+        color: white;
+        font-weight: bold
+    }
+/* #abbu(p3dce575962b3c369) #css ends  */

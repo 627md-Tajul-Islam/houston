@@ -11,3 +11,28 @@
     font-weight: bold
 }
 /* #hadoc(f286c1a79615597b) #css ends */
+
+/* #agni(cded716dce36a6e8) #css starts  */
+.aboutcded716dce36a6e8 .DescriptionHeading {
+    font-size: 50px
+}
+
+.aboutcded716dce36a6e8 .DescriptionPara {
+    color: #808080;
+    font-size: 18px
+}
+
+.aboutcded716dce36a6e8 .descriptionImage img{
+    height: 400px;
+    width: 500px
+}
+.aboutcded716dce36a6e8 .badge{
+    color: #FF705E;
+    background-color: #F5F0F7
+}
+.aboutcded716dce36a6e8 .searchBtn{
+    background-color:#FF705E ;
+    border-radius: 15px;
+    color: white
+}
+/* #agni(cded716dce36a6e8) #css ends  */
